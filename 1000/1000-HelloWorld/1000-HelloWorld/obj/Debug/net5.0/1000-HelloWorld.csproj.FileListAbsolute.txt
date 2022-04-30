@@ -1,0 +1,16 @@
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\bin\Debug\net5.0\1000-HelloWorld.exe
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\bin\Debug\net5.0\1000-HelloWorld.deps.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\bin\Debug\net5.0\1000-HelloWorld.runtimeconfig.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\bin\Debug\net5.0\1000-HelloWorld.runtimeconfig.dev.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\bin\Debug\net5.0\1000-HelloWorld.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\bin\Debug\net5.0\ref\1000-HelloWorld.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\bin\Debug\net5.0\1000-HelloWorld.pdb
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.csproj.AssemblyReference.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.AssemblyInfoInputs.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.AssemblyInfo.cs
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.csproj.CoreCompileInputs.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\ref\1000-HelloWorld.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.pdb
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\1000\1000-HelloWorld\1000-HelloWorld\obj\Debug\net5.0\1000-HelloWorld.genruntimeconfig.cache
