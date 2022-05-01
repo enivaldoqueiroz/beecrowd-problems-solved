@@ -1,0 +1,16 @@
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\bin\Debug\net5.0\1002.exe
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\bin\Debug\net5.0\1002.deps.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\bin\Debug\net5.0\1002.runtimeconfig.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\bin\Debug\net5.0\1002.runtimeconfig.dev.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\bin\Debug\net5.0\1002.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\bin\Debug\net5.0\ref\1002.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\bin\Debug\net5.0\1002.pdb
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.csproj.AssemblyReference.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.AssemblyInfoInputs.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.AssemblyInfo.cs
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.csproj.CoreCompileInputs.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\ref\1002.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.pdb
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1002\obj\Debug\net5.0\1002.genruntimeconfig.cache
