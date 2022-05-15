@@ -5,7 +5,6 @@ D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\bin\Debug\net5.0\101
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\bin\Debug\net5.0\1014.dll
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\bin\Debug\net5.0\ref\1014.dll
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\bin\Debug\net5.0\1014.pdb
-D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\obj\Debug\net5.0\1014.csproj.AssemblyReference.cache
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\obj\Debug\net5.0\1014.GeneratedMSBuildEditorConfig.editorconfig
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\obj\Debug\net5.0\1014.AssemblyInfoInputs.cache
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1014\obj\Debug\net5.0\1014.AssemblyInfo.cs

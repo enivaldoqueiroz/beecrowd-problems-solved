@@ -31,7 +31,7 @@ namespace _1040
 
         static void Main(string[] args)
         {
-            double N1, N2, N3, N4;
+            double N1, N2, N3, N4, N5, mediaFinalExame;
 
             string[] vetNotas = Console.ReadLine().Split(' ');
             N1 = double.Parse(vetNotas[0], CultureInfo.InvariantCulture);
@@ -41,36 +41,36 @@ namespace _1040
 
             double media = ((N1 * 2) + (N2 * 3) + (N3 * 4) + (N4 * 1)) / (2 + 3 + 4 + 1);
             
-            Console.WriteLine("Media: {0}", media.ToString("F1", CultureInfo.InvariantCulture));
+            //Console.WriteLine("Media: {0}", media.ToString("F1", CultureInfo.InvariantCulture));
 
-            if (media >= 7)
+            if (media >= 7.0)
             {
-                //Console.WriteLine("Media: {0}", media.ToString("F1", CultureInfo.InvariantCulture));
-                Console.WriteLine("Aluno aprovado.");
+                Console.Write("Media: {0}\n", media.ToString("F1", CultureInfo.InvariantCulture));
+                Console.Write("Aluno aprovado.\n");
             }
-            else if (media < 5)
+            else if (media >= 5.0 && media <= 6.9)
             {
-                //Console.WriteLine("Media: {0}", media.ToString("F1", CultureInfo.InvariantCulture));
-                Console.WriteLine("Aluno reprovado.");
-            }
-            else if (media >= 5 && media <= 6.9)
-            {
-                Console.WriteLine("Aluno em exame.");
-                double N5 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.Write("Media: {0}\n", media.ToString("F1", CultureInfo.InvariantCulture));
+                Console.Write("Aluno em exame.\n");
+                N5 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                //Console.WriteLine("Media: {0}", media.ToString("F1", CultureInfo.InvariantCulture));
-                Console.WriteLine("Nota do exame: {0}", N5.ToString("F1", CultureInfo.InvariantCulture));
+                Console.Write("Nota do exame: {0}\n", N5.ToString("F1", CultureInfo.InvariantCulture));
 
-                double mediaFinalExame = (media + N5) / 2;
+                mediaFinalExame = (media + N5) / 2;
 
                 if (mediaFinalExame >= 5)
-                    Console.WriteLine("Aluno aprovado.");
-                else if (mediaFinalExame <= 4.9)
-                    Console.WriteLine("Aluno reprovado.");
+                    Console.Write("Aluno aprovado.\n");
+                else
+                    Console.Write("Aluno reprovado.\n");
 
-                Console.WriteLine("Media final: {0}", mediaFinalExame.ToString("F1", CultureInfo.InvariantCulture));
+                Console.Write("Media final: {0}\n", mediaFinalExame.ToString("F1", CultureInfo.InvariantCulture));
             }
-            
+            else if (media < 5.0)
+            {
+                Console.Write("Media: {0}\n", media.ToString("F1", CultureInfo.InvariantCulture));
+                Console.Write("Aluno reprovado.\n");
+            }
+
         }
     }
 }

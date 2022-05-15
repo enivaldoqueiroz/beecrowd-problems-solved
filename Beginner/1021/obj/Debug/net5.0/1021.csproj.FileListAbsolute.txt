@@ -13,4 +13,3 @@ D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1021\obj\Debug\net5.0\102
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1021\obj\Debug\net5.0\ref\1021.dll
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1021\obj\Debug\net5.0\1021.pdb
 D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1021\obj\Debug\net5.0\1021.genruntimeconfig.cache
-D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1021\obj\Debug\net5.0\1021.csproj.AssemblyReference.cache

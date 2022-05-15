@@ -17,7 +17,7 @@ namespace _1042
              */
 
 
-            int v1, v2, v3, aux = 0, min1, min2 = 0, min3 = 0;
+            int v1, v2, v3, min1, min2 = 0, min3 = 0;
 
             string[] vetValores = Console.ReadLine().Split(' ');
             v1 = int.Parse(vetValores[0], CultureInfo.InvariantCulture);
