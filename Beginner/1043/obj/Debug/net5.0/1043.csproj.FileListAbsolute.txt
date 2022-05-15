@@ -1,0 +1,15 @@
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\bin\Debug\net5.0\1043.exe
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\bin\Debug\net5.0\1043.deps.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\bin\Debug\net5.0\1043.runtimeconfig.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\bin\Debug\net5.0\1043.runtimeconfig.dev.json
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\bin\Debug\net5.0\1043.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\bin\Debug\net5.0\ref\1043.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\bin\Debug\net5.0\1043.pdb
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\1043.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\1043.AssemblyInfoInputs.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\1043.AssemblyInfo.cs
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\1043.csproj.CoreCompileInputs.cache
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\1043.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\ref\1043.dll
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\1043.pdb
+D:\PROJETOS_DEV_2021\beecrowd-problems-solved\Beginner\1043\obj\Debug\net5.0\1043.genruntimeconfig.cache
